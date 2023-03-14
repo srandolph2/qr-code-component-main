@@ -23,8 +23,8 @@ Using HTML and CSS create a QR page that can be seen on desktop and moblie.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [[Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-uluCjWZxs6)]
+- Live Site URL: [[Add live site URL here](https://qr-code-component-samantha-randolph.netlify.app/)](https://your-live-site-url.com)
 
 ## My process
 
